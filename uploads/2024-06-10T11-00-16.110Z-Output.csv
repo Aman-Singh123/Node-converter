@@ -1,0 +1,5 @@
+Student Id,Full Name,Father Name,Mother Name,Aadhar Number,Address,Phone,Email,Course,Course Type,Total Fee,Fee Received,Fee Pending,Status
+HB000,Test  User,Test Father,Test Mother,235467829387,"House Number 114, Hisar, Haryana",9836728767,test@example.com,App Development,App With Flutter,62000,15000,,Training
+HB001,John  Doe,Harry,Lisa,567658976543,Not Available,9876787656,John@email.com,MERN Stack,Basic + Advance,110000,25000,,Training
+HB002,user  name,father name,mother name,123412341234,"demo address 1, demo address 2, Hisar, Haryana",1234512345,user@gmail.com,Frontend Development,Basic,35000,22000,,Training
+HB003,network  test,test,test,223322332334,Not Available,Not Available,Not Available,Full Stack,Software Engineer,230000,23000,,Training
